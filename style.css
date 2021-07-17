@@ -1,0 +1,99 @@
+#title{
+    text-align: center;
+    margin-top: 3em;
+    padding-bottom: 0.5em;
+}
+
+#blog-title{
+    font-weight: 300; 
+    text-align: center; 
+    margin-bottom: 0;
+}
+
+#date{
+    text-align: center; 
+    margin-top: .15rem;
+}
+
+body{
+    font-family: 'Lora', serif;
+}
+
+#blog-post{ 
+    margin-top: 20px; 
+    margin-bottom: 20px;
+}
+
+
+#content-container{
+    padding-bottom: 20px;
+}
+
+#about-me-container{
+    margin-top: 20px;
+}
+
+#about-me{
+    padding-top: 15px;
+}
+
+#about-pic{
+    max-width: 100%; 
+    height: auto;
+    margin-bottom: 12px;
+}
+
+.blog-pic-tall{
+    display: block;
+    max-width: 50%; 
+    height: auto;
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+}
+
+.blog-pic-16-9{
+    display: block;
+    max-width: 100%; 
+    height: auto;
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+ font-family: 'Montserrat', sans-serif;
+ font-weight: 300;
+ /* text-transform: uppercase; */
+}
+
+.left-align-accent{
+ border-top: 5px solid #275C35;
+ width: 35%;
+ margin-left: 0;
+}
+
+.center-align-accent {
+    border-top: 3.2px solid #275C35;
+    width: 60%;
+    margin-top: 0.5rem;
+    margin-bottom: 0rem;
+}
+
+.blog-entry{
+    margin-top: 1em;
+}
+
+.rounded{
+    border-radius: .12rem!important;
+}
+
+h6{
+    font-size: 0.9rem;
+}
+
+.big-break {
+    line-height: 120%;
+ }
